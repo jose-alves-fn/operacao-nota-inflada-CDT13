@@ -3,7 +3,7 @@
 ## 👥 Equipe
 
 * **José Alves Ferreira Neto**
-* **Filipe Pionir**
+* **Filipe Pioner**
 * **João Pedro Sobral**
 
 ---
