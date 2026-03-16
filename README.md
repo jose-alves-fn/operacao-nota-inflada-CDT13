@@ -102,10 +102,10 @@ Execute as células **na ordem em que aparecem no notebook** para reproduzir tod
 
 ## 🎥 Link do Vídeo
 
-Adicionar aqui o link do vídeo de apresentação do projeto:
+
 
 ```
-[Link do vídeo]
+https://drive.google.com/file/d/1pFqUygk1kTnW1T5yG8ohhBFdCJ8EqWT_/view?usp=sharing
 ```
 
 ---
